@@ -67,33 +67,3 @@ choices.forEach((choice) => {
     })
 })
 
-
-// class User {
-//     constructor(name,email){
-//         this.name = name;
-//         this.email = email;
-//     }
-//     viewData(){
-//         console.log(this.name);
-//         console.log(this.email);
-//     }
-// }
-
-// let firstUser = new User("Sahil","sahil@omk.com");
-// let secondUser = new User("Amit","amit@ikr.com");
-// firstUser.viewData();
-// console.log(firstUser.email);
-// console.log(secondUser.name+secondUser.email);
-// secondUser.viewData();
-
-// class Admin extends User{
-//     constructor(name,email){
-//         super(name,email);
-//     }
-//     editData(){
-//         // this.name=
-//     }
-// }
-
-// let firstAdmin = new Admin("admin","okkk@okkk.com");
-// console.log(firstAdmin.name + " " + firstAdmin.email);
